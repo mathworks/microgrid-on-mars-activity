@@ -9,9 +9,6 @@ Click here to open the code and repository in MATLAB Online&trade;:
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/microgrid-on-mars-activity&file=/Challenge-Files/microgrid_on_mars.mlx)
 
-## Note for Reviewers - Before Moving to GitHub
-The 'Complete' folder and all .docx files will not be added to GitHub. 
-
 ## Files
 ### Challenge Files
 This folder contains the instructions, templates, and examples for the challenge. All MATLAB and Simulink files are in here. 
