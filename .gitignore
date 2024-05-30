@@ -1,0 +1,7 @@
+# List of untracked files to ignore
+*.slxc
+*.mexw64
+*.autosave
+slprj/*
+Challenge Files/slprj/*
+Complete/slprj/*
