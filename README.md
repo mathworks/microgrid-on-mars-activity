@@ -6,6 +6,7 @@
 This repository contains code and instructions to start tackling the Microgrid on Mars Hackathon!
 
 Click here to open the code and repository in MATLAB Online&trade;:
+
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/microgrid-on-mars-activity&file=/Challenge-Files/microgrid_on_mars.mlx)
 
 ## Note for Reviewers - Before Moving to GitHub
