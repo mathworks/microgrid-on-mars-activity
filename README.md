@@ -1,5 +1,5 @@
 <td>
-<img src="/Images/Hackathons Banner.jpg" style="width:1275px;height:158.25px">
+<img src="Images/Hackathons Banner.jpg" width="1275" height="158.25" title="Hackathons Banner">
 </td>
 
 # Create Your Own Microgrid on Mars with MATLAB&reg; and Simulink&reg;
