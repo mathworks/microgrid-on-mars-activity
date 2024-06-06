@@ -1,5 +1,5 @@
 <td>
-<img src="Images/Hackathons Banner.jpg">
+<img src="Images/HackathonsBanner.jpg">
 </td>
 
 # Create Your Own Microgrid on Mars with MATLAB&reg; and Simulink&reg;
