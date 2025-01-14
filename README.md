@@ -27,4 +27,4 @@ This file outlines the instructions for the hackathon and contains some resource
 ### ScoringRubric.pdf 
 This document provides the grading rubric that judges will be using for the challenge. 
 
-**Copyright 2023 - 2024 The MathWorks, Inc.**
+**Copyright 2023 - 2025 The MathWorks, Inc.**
