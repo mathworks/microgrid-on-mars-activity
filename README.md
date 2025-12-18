@@ -11,11 +11,11 @@ Click here to open the code and repository in MATLAB Online&trade;:
 
 ## Files
 ### Challenge Files
-This folder contains the instructions, templates, and examples for the challenge. All MATLAB and Simulink files are in here. 
+This folder contains the instructions, templates, and examples for the challenge. All MATLAB and Simulink files are in here. This folder contains the following files and folders: 
 1. Impedance Match: This folder includes example materials for Impedance Matching and Maximum Power Point Tracking.  
     - impedance_match.mlx contains instructions and an explanation of this concept 
     - impedance_match.slx is the Simulink model you can use to follow along with the example outlined in ‘impedance_match.mlx’ 
-2. Resources: This folder contains resources for the MATLAB project, do not modify this. 
+2. resources/project: This folder contains resources for the MATLAB project, do not modify this. 
 3. microgrid_on_mars.mlx: A MATLAB Live Script with instructions on how to complete the challenge. Start here! 
 4. Microgrid_on_mars.prj: A MATLAB Project that will set up the environment for you. Double-click on this before you begin making changes or running any files.  
 5. profileData.mat: A MATLAB data file that contains variables that will be used in the Simulink models for various tasks. These are automatically loaded when you open the MATLAB Project. 
